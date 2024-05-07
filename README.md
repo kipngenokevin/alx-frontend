@@ -5,7 +5,7 @@
 *For this project, we expect you to look at this concept:*
 *[HTML - elements of a web page](https://intranet.alxswe.com/concepts/543)
 
-![Learnt Html](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/5d9e347964a9cc0e3e24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240507T112004Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f9f72262e95ebc2467235b18e6fccead8d91eb2b78f6757a0f037e4547717032)
+![Learnt Html](https://i.pinimg.com/736x/90/20/93/9020930c9ede3d1580671bfcedb402b5.jpg)
 
 ## Welcome!
 Welcome to the Web Stack specialization. The 3 first projects will give you all basics of the Web development: HTML, CSS and Developer tools.
