@@ -36,7 +36,7 @@ body {
 	line-height: var(--line-height-base);
 }
 
-a:not(:empty) {
+a:link {
 	color: var(--text-color);
 	text-decoration: none;
 }
