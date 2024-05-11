@@ -18,11 +18,14 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
 	--font-size-large: 1.8rem;
 	--font-size-x-large: 2.3rem;
 	--font-size-xx-large: 4.8rem;
+
 	--font-weight-regular: 400;
 	--font-weight-bold: 700;
+
 	--line-height-small: 1.2;
 	--line-height-base: 1.5;
 	--line-height-big: 1.8;
+
 	--section-header-align: center;
 	--section-tagline-transform: uppercase;
 	--section-title-margin: 0;
@@ -123,6 +126,6 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: var(--font-weight-bold);
 }
 
-footer {
+.footer {
 	padding: var(--footer-padding);
 }
