@@ -29,6 +29,12 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
 	--section-title-color: var(--color-black);
 }
 
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+}
+
 html {
 	scroll-behavior: smooth;
 	font-size: 62.5%;
