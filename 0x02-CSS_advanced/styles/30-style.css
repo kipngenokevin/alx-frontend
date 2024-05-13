@@ -366,7 +366,7 @@ ul.row {
 .card-work .card-title a {
 	display: block;
 	text-decoration: none;
-	padding-top: 0.45rem;
+	padding-top: 45%;
 }
 
 .card-work .card-title a::after {
